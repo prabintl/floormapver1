@@ -1,0 +1,21 @@
+<resources>
+    <!-- main title -->
+    <string name="app_name">Floor Maps</string>
+
+    <!-- tower block title -->
+    <string name="tower_block">Tower Block</string>
+    <string name="outdoor">Outdoor</string>
+    <string name="tb_floor1">Ground Floor</string>
+    <string name="tb_floor2">First Floor</string>
+    <string name="tb_floor3">Second Floor</string>
+    <string name="tb_floor4">Third Floor</string>
+
+    <!-- lecture block title -->
+    <string name="lecture_block">Lecture Block</string>
+    <string name="lb_floor1">Ground Floor</string>
+    <string name="lb_floor2">First Floor</string>
+    <string name="lb_floor3">Second Floor</string>
+
+    <string name="canteen">Canteen</string>
+
+</resources>
